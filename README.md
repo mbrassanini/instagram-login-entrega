@@ -1,1 +1,1 @@
-# Repositório para entrega do Instagran Login Clone
+# Repositório para entrega do Clone de Login do Instagram
